@@ -17,17 +17,6 @@ Timer: 0.0000
 WrapStyle: 0
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: [Moozzi2] Kaguya-sama wa Kokurasetai First Kiss wa Owaranai - 01 (BD 1920x1080 x265-10Bit 2Audio)_new_[Encoded].mkv
-Video File: [Moozzi2] Kaguya-sama wa Kokurasetai First Kiss wa Owaranai - 01 (BD 1920x1080 x265-10Bit 2Audio)_new_[Encoded].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 454
-Active Line: 464
-Video Position: 20956
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,48,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,40,40,36,0
@@ -679,9 +668,3 @@ Dialogue: 10,0:23:40.90,0:23:43.48,Default,,0,0,0,,It seems I've been fast aslee
 Dialogue: 10,0:23:43.81,0:23:44.73,Default,,0,0,0,,Huh?
 Dialogue: 10,0:23:45.23,0:23:47.74,Default,,0,0,0,,Good morning, Shirogane.
 Dialogue: 10,0:23:50.24,0:23:53.20,Default,,0,0,0,,I'd appreciate a cup of coffee, please.
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"8888f07d-c8e1-460d-ac34-ad9fdeac5258"#2C"originalText"#3A"How can I possibly look him\\Nin the eye tomorrow?"}
-Data: 2,a-mo,e{"originalText"#3A"Idiot!"#2C"uuid"#3A"bec40fc0-d6f6-44fe-9919-b4e9a8146e92"}
-Data: 3,a-mo,e{"uuid"#3A"45d1372e-daab-452b-a5f5-f4718904679f"#2C"originalText"#3A"I'll run out and get some candy!"}
-Data: 5,a-mo,e{"uuid"#3A"58520e4c-6b12-42ee-8187-e5d2806e6d43"#2C"originalText"#3A"{\\pos(658.19#2C672.76)}We're going at top speed#2C\\Nso hang on#2C okay?"}
