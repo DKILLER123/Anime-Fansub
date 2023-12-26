@@ -10,16 +10,6 @@ Timer: 0.0000
 WrapStyle: 0
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Audio File: [Moozzi2] Kaguya-sama wa Kokurasetai First Kiss wa Owaranai - 01 (BD 1920x1080 x265-10Bit 2Audio)_new_[Encoded].mkv
-Video File: [Moozzi2] Kaguya-sama wa Kokurasetai First Kiss wa Owaranai - 01 (BD 1920x1080 x265-10Bit 2Audio)_new_[Encoded].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 634
-Active Line: 656
-Video Position: 6527
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Signs,Arial,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
