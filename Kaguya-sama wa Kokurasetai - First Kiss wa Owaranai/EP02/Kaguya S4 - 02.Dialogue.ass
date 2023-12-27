@@ -641,8 +641,3 @@ Dialogue: 10,0:23:44.11,0:23:45.94,Italics,,0,0,0,,loses.
 Dialogue: 10,0:23:46.19,0:23:47.94,Default,,0,0,0,,Miyuki's betrayed me!
 Dialogue: 10,0:23:48.49,0:23:50.91,Default,,0,0,0,,You're the only one for me, Yu!
 Dialogue: 10,0:23:50.91,0:23:54.91,Default,,0,0,0,,An unhinged person just threw herself into my\Narms saying the weirdest things at the worst time!
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"originalText"#3A"{\\an1}Whaaaaat?"#2C"uuid"#3A"58f4068c-b533-4eee-be24-16a913c4c1cb"}
-Data: 1,a-mo,e{"originalText"#3A"{\\an3}Whaaaaat?"#2C"uuid"#3A"3208f480-f70a-484c-a536-f2cf117acc0b"}
-Data: 5,a-mo,e{"originalText"#3A"{\\pos(640#2C600)}Could it be a fianc#C3#A9 after all?"#2C"uuid"#3A"9782c5c6-4819-4f87-a493-e845ce201e7c"}
