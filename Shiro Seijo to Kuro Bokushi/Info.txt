@@ -1,0 +1,5 @@
+Translation: CR Modified
+Timing: CR Modified + DKILLER1
+TS: DKILLER1
+KFX: Bagus
+Editing: DKILLER1
